@@ -2,7 +2,7 @@
 
 # module-1-hello-microverse
 
-> This is the first project in Microverse's module one.
+> This is my first project in Microverse's module one.
 
 ![screenshot](./app_screenshot.png)
 
